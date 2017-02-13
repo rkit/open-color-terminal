@@ -6,7 +6,7 @@ Based on [Open Color](https://yeun.github.io/open-color/)
 
 Open the `dark-open-color.terminal` to install
 
-<img width="962" alt="screen-dark" src="https://cloud.githubusercontent.com/assets/4242765/22888404/27caa050-f238-11e6-8e48-9d2fec8872d2.png">
+<img width="962" alt="screen-dark" src="https://cloud.githubusercontent.com/assets/4242765/22888832/a9974894-f239-11e6-8780-af71fdbe0e7a.png">
 
 ## Light Theme
 
