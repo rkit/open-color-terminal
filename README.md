@@ -1,4 +1,4 @@
-# Open Color for macOS Terminal
+# Open Color Theme for macOS Terminal
 
 Based on [Open Color](https://yeun.github.io/open-color/)
 
