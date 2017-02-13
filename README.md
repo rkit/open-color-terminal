@@ -6,13 +6,13 @@ Based on [Open Color](https://yeun.github.io/open-color/)
 
 Open the `dark-open-color.terminal` to install
 
-<img width="1039" alt="screen-dark" src="https://cloud.githubusercontent.com/assets/4242765/22887806/0433fcb0-f236-11e6-8e52-edabe79fb33f.png">
+<img width="962" alt="screen-dark" src="https://cloud.githubusercontent.com/assets/4242765/22888404/27caa050-f238-11e6-8e48-9d2fec8872d2.png">
 
 ## Light Theme
 
 Open the `dark-open-color.terminal` to install
 
-<img width="1039" alt="screen-light" src="https://cloud.githubusercontent.com/assets/4242765/22887835/1e335110-f236-11e6-827a-e8f5ae88a06d.png">
+<img width="962" alt="screen-light" src="https://cloud.githubusercontent.com/assets/4242765/22888408/2932f398-f238-11e6-8618-b8b4f4f45402.png">
 
 ## Featured plugins
 
