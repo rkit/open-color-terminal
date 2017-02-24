@@ -12,7 +12,7 @@ Open the `dark-open-color.terminal` to install
 
 Open the `dark-open-color.terminal` to install
 
-<img width="962" alt="screen-light" src="https://cloud.githubusercontent.com/assets/4242765/22888408/2932f398-f238-11e6-8618-b8b4f4f45402.png">
+<img width="962" alt="screen-light" src="https://cloud.githubusercontent.com/assets/4242765/23291254/b30d0988-fa89-11e6-9e12-2494300273f3.png">
 
 ## Font
 
