@@ -14,7 +14,11 @@ Open the `dark-open-color.terminal` to install
 
 <img width="962" alt="screen-light" src="https://cloud.githubusercontent.com/assets/4242765/22888408/2932f398-f238-11e6-8618-b8b4f4f45402.png">
 
-## Featured plugins
+## Font
+
+SF Mono Light
+
+## Plugins
 
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
